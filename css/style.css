@@ -78,3 +78,16 @@ footer {
 .Work{
     margin-bottom: 30px;
 }
+
+#popular img {
+    height: 180px;
+    width: 98%;
+}
+
+#popular p{
+    color: white;
+    opacity: 0.6;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
