@@ -1,0 +1,80 @@
+body,.navBg,.ab{
+    background-color:#202023;
+}
+
+.navBg a{
+    color: white;
+}
+
+#dog:hover{
+    transform: rotate(10deg);
+}
+
+.btn-color{
+    background-color: #323234;
+    opacity: 0.8;
+    color: white;
+    font-weight: 200;
+}
+
+#intro {
+    color: white;
+}
+
+.btn-portfolio{
+    background-color: #81e7d9;
+}
+
+#Bio li{
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+#Bio,#onTheWeb{
+    color:white;
+}
+
+#onTheWeb li{
+    height: 40px;
+    width: 150px;
+    color: #81e7d9;
+    list-style: none;
+}
+
+#onTheWeb{
+    margin: 30px 0;
+}
+
+#onTheWeb li:hover {
+    background-color: #81e7d9;
+    opacity: 0.5;
+    border-color: #202023;
+    color: white !important;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#onTheWeb li:hover b {
+    color: white;
+}
+
+.leftBox, .rightBox {
+    height: 300px;
+    background-color: antiquewhite;
+    width: 96%;
+}
+
+.leftBox{
+    float: left;
+}
+
+footer {
+    height: 75px;
+    margin-top: 20px;
+    opacity: 0.5;
+    color: white;
+}
+
+.Work{
+    margin-bottom: 30px;
+}
